@@ -1,0 +1,3 @@
+- `ColorModels/` - Models with lighting baked into the vertex colors. For assignment 1.
+- `NormalModels/` - Models with normals used for lighting. For assignment 2.
+- `TextureModels/` - Models with normals and texture coordinates. For assignment 3.
